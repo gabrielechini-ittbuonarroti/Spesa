@@ -6,3 +6,19 @@ settimana 1
 - Pasta 13
 - Carne 10
 - Pesce 4
+
+settimana 2
+- Verdure 12
+- Frutta 18 
+- Bevande 15
+- Pasta 13
+- Carne 10
+- Pesce 4
+
+settimana 3
+- Verdure 12
+- Frutta 18 
+- Bevande 15
+- Pasta 13
+- Carne 10
+- Pesce 4
