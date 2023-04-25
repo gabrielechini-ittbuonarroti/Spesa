@@ -1,0 +1,6 @@
+mese Gennaio
+- Gas 100
+- Luce 200
+- Acqua 120
+- Internet 40
+- Condominio 450
